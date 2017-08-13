@@ -1,0 +1,37 @@
+html {
+    font: 100%/1.5 "Roboto", Verdana, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.name {
+    color: #f35626;
+    font-size: 3rem;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 100;
+}
+.mento {
+    font: 2.0rem;
+    color: #7b8993;
+    text-align: center;
+    margin-top: 20px; 
+}
+.redirect {
+    text-align: center;
+    margin-top: 50px;
+}
+.gap {
+    margin-left: 15px;
+}
